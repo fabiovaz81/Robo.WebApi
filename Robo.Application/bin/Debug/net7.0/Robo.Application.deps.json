@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Robo.Application/1.0.0": {
+        "dependencies": {
+          "Robo.Domain": "1.0.0",
+          "Robo.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "Robo.Application.dll": {}
+        }
+      },
+      "Robo.Domain/1.0.0": {
+        "runtime": {
+          "Robo.Domain.dll": {}
+        }
+      },
+      "Robo.ViewModel/1.0.0": {
+        "dependencies": {
+          "Robo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Robo.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Robo.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Robo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Robo.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

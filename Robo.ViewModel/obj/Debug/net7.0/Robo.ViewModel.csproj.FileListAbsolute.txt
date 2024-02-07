@@ -1,0 +1,15 @@
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\bin\Debug\net7.0\Robo.ViewModel.deps.json
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\bin\Debug\net7.0\Robo.ViewModel.dll
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\bin\Debug\net7.0\Robo.ViewModel.pdb
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\bin\Debug\net7.0\Robo.Domain.dll
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\bin\Debug\net7.0\Robo.Domain.pdb
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\obj\Debug\net7.0\Robo.ViewModel.csproj.AssemblyReference.cache
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\obj\Debug\net7.0\Robo.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\obj\Debug\net7.0\Robo.ViewModel.AssemblyInfoInputs.cache
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\obj\Debug\net7.0\Robo.ViewModel.AssemblyInfo.cs
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\obj\Debug\net7.0\Robo.ViewModel.csproj.CoreCompileInputs.cache
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\obj\Debug\net7.0\Robo.ViewModel.csproj.CopyComplete
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\obj\Debug\net7.0\Robo.ViewModel.dll
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\obj\Debug\net7.0\refint\Robo.ViewModel.dll
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\obj\Debug\net7.0\Robo.ViewModel.pdb
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.ViewModel\obj\Debug\net7.0\ref\Robo.ViewModel.dll

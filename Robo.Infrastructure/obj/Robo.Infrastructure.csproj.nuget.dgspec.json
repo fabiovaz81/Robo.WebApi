@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Infrastructure\\Robo.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Application\\Robo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Application\\Robo.Application.csproj",
+        "projectName": "Robo.Application",
+        "projectPath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Application\\Robo.Application.csproj",
+        "packagesPath": "C:\\Users\\fabio.vaz\\.nuget\\packages\\",
+        "outputPath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabio.vaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Domain\\Robo.Domain.csproj": {
+                "projectPath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Domain\\Robo.Domain.csproj"
+              },
+              "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.ViewModel\\Robo.ViewModel.csproj": {
+                "projectPath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.ViewModel\\Robo.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Domain\\Robo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Domain\\Robo.Domain.csproj",
+        "projectName": "Robo.Domain",
+        "projectPath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Domain\\Robo.Domain.csproj",
+        "packagesPath": "C:\\Users\\fabio.vaz\\.nuget\\packages\\",
+        "outputPath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabio.vaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Infrastructure\\Robo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Infrastructure\\Robo.Infrastructure.csproj",
+        "projectName": "Robo.Infrastructure",
+        "projectPath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Infrastructure\\Robo.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\fabio.vaz\\.nuget\\packages\\",
+        "outputPath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabio.vaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Application\\Robo.Application.csproj": {
+                "projectPath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Application\\Robo.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.ViewModel\\Robo.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.ViewModel\\Robo.ViewModel.csproj",
+        "projectName": "Robo.ViewModel",
+        "projectPath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.ViewModel\\Robo.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\fabio.vaz\\.nuget\\packages\\",
+        "outputPath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabio.vaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Domain\\Robo.Domain.csproj": {
+                "projectPath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Domain\\Robo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

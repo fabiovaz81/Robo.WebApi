@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wasEMdbHMczB5LUC1S38Gg54WIHOJ/Pnt6dY9m+LSTjd97h2YgFFBaPILs2SuxDELU9vvFGRVTUz1dNOHzgeXw==",
+  "success": true,
+  "projectFilePath": "C:\\FabioVaz\\Narwal\\Robo.WebApi\\Robo.Infrastructure\\Robo.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio.vaz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.Domain\bin\Debug\net7.0\Robo.Domain.deps.json
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.Domain\bin\Debug\net7.0\Robo.Domain.dll
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.Domain\bin\Debug\net7.0\Robo.Domain.pdb
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.Domain\obj\Debug\net7.0\Robo.Domain.csproj.AssemblyReference.cache
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.Domain\obj\Debug\net7.0\Robo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.Domain\obj\Debug\net7.0\Robo.Domain.AssemblyInfoInputs.cache
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.Domain\obj\Debug\net7.0\Robo.Domain.AssemblyInfo.cs
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.Domain\obj\Debug\net7.0\Robo.Domain.csproj.CoreCompileInputs.cache
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.Domain\obj\Debug\net7.0\Robo.Domain.dll
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.Domain\obj\Debug\net7.0\refint\Robo.Domain.dll
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.Domain\obj\Debug\net7.0\Robo.Domain.pdb
+C:\FabioVaz\Narwal\Robo.WebApi\Robo.Domain\obj\Debug\net7.0\ref\Robo.Domain.dll
